@@ -1,2 +1,2 @@
-# c-Degiskenler
+# csharp-Degiskenler
 Patika dev üzerinden alınmış c# eğitimi için açılmılştır
